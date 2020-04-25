@@ -5,9 +5,9 @@ detect:
 
 rules:
     - statement: "\\b(as|alias|case|else|exposing|if|import|in|let|module|of|port|then|type|)\\b"
-    - statement: "(\\=|\\:|\\->)"
+    - statement: "(\\=|\\:|\\(|\\)|\\,|\\+|\\-|\\/|\\*|\\>|\\<|\\||\\.|\\_|\\{|\\}|\\[|\\]|\\\\)"
     - type: "\\b([A-Z][A-Za-z\\d]*)\\b"
-    - identifier: "^([a-z][A-Za-z\\d]*)\\b"
+    #- identifier: "^([a-z][A-Za-z\\d]*)\\b"
     - constant.string:
         start: "\"\"\""
         end: "\"\"\""
