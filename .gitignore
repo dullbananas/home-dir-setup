@@ -6,6 +6,7 @@
 # General files
 
 !/README.md
+!/repos/README.md
 !/.gitignore
 
 
