@@ -1,0 +1,14 @@
+# Ignore all files by default
+
+/*
+
+
+# General files
+
+!/README.md
+!/.gitignore
+
+
+# Configuration files
+
+!/.gitconfig

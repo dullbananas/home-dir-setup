@@ -1,0 +1,21 @@
+[core]
+        pager = less
+
+[color]
+        diff = auto
+        status = auto
+        branch = auto
+        interactive = auto
+        pager = true
+        ui = auto
+
+[alias]
+        hist = log --graph --oneline --decorate
+        st = status --short
+
+[user]
+	email = dull.bananas0@gmail.com
+	name = Dull Bananas
+
+[push]
+	default = matching
