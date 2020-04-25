@@ -1,6 +1,7 @@
 # Ignore all files by default
 
 /*
+/.config/micro/*
 
 
 # General files
@@ -14,3 +15,6 @@
 
 !/.gitconfig
 !/.bashrc
+!/.config/
+!/.config/micro/settings.json
+!/.config/micro/bindings.json
