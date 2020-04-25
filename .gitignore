@@ -12,3 +12,4 @@
 # Configuration files
 
 !/.gitconfig
+!/.bashrc
