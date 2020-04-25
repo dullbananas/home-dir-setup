@@ -16,5 +16,5 @@
 !/.gitconfig
 !/.bashrc
 !/.config/
-!/.config/micro/settings.json
-!/.config/micro/bindings.json
+!/.config/micro/*.json
+!/.config/micro/syntax/
