@@ -25,7 +25,7 @@ PS1="\n$WHITE\w$YELLOW\$(parse_git_branch) $WHITE"
 # MY SETTINGS
 
 
-export PATH="$HOME/bin:$PATH"
+export PATH="$HOME/bin:$HOME/.npm-packages/bin:$PATH"
 export EDITOR="micro"
 
 

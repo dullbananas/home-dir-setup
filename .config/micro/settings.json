@@ -1,4 +1,7 @@
 {
+    "*.elm": {
+        "tabstospaces": true
+    },
     "autoclose": true,
     "autoindent": true,
     "autosave": 0,
@@ -16,7 +19,7 @@
     "fastdirty": false,
     "fileformat": "unix",
     "filetype": "unknown",
-    "ftoptions": true,
+    "ftoptions": false,
     "ignorecase": false,
     "indentchar": "",
     "infobar": true,
@@ -53,7 +56,7 @@
     "syntax": true,
     "tabmovement": true,
     "tabsize": 4,
-    "tabstospaces": true,
+    "tabstospaces": false,
     "useprimary": true,
     "xterm": false
 }
